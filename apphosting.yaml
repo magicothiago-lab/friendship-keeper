@@ -11,3 +11,7 @@ env:
     value: standalone
     availability:
       - BUILD
+  - variable: NEXTJS_ADAPTER_VERSION
+    value: "14.0.25"
+    availability:
+      - BUILD
