@@ -7,3 +7,7 @@ env:
     availability:
       - BUILD
       - RUNTIME
+  - variable: NEXT_OUTPUT_MODE
+    value: standalone
+    availability:
+      - BUILD
